@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rapha021
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Raphael
+- 🌱 I’m currently learning Web Development and other programming languages
+- 👀 Student at Kenzie Academy Brazil🌟.
+- 📫 How to reach me **rapha.gloria@gmail.com**
 
 <!---
 rapha021/rapha021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
