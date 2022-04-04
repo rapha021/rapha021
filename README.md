@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raphael
 - 🌱 I’m currently learning Web Development and other programming languages
-- 👀 Student at Kenzie Academy Brazi
+- 👀 Student at Kenzie Academy Brazil
 - 📫 How to reach me **rapha.gloria@gmail.com**
 
 <!---
