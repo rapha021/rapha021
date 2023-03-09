@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raphael
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently fullstack Web Development and learning other programming languages
 - 👀 Student at Kenzie Academy Brazil
 - 📫 How to reach me **contato@raphaelgloria.com**
 - 💫 [Portfólio](https://raphaelgloria.com)
